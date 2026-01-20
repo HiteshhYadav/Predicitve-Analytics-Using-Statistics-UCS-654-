@@ -1,4 +1,5 @@
 Sampling Techniques on Imbalanced Credit Card Dataset
+
 📌 Overview
 
 Imbalanced datasets are a major challenge in real-world machine learning problems such as credit card fraud detection. When one class heavily dominates the dataset, machine learning models tend to become biased toward the majority class.
@@ -133,16 +134,3 @@ Run the script:
 python sampling_assignment.py
 
 
-Check the generated CSV files and plots
-
-If you want, I can:
-
-✨ shorten this for strict word limits
-
-🧠 add a Discussion / Observation section
-
-📦 create requirements.txt
-
-🏫 align it exactly to your college rubric
-
-Just say the word 👍
