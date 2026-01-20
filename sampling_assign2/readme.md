@@ -51,11 +51,17 @@ Each sampling technique was evaluated independently to observe its influence on 
 Five machine learning models were used in this project:
 
 Model ID	Model
+
 M1	Logistic Regression
+
 M2	Decision Tree Classifier
+
 M3	Random Forest Classifier
+
 M4	Naive Bayes
+
 M5	Support Vector Machine
+
 ⚙️ Methodology
 
 Load and preprocess the dataset
@@ -91,14 +97,24 @@ Accuracy Trend Line Plot across sampling techniques
 These visualizations make it easy to identify which sampling technique performs best for each model.
 
 📁 Generated Files
+
 File	Description
+
 accuracy_matrix.csv	Accuracy of all model–sampling combinations
+
 best_sampling_per_model.csv	Best sampling technique for each model
+
 avg_accuracy_per_sampling.csv	Average accuracy per sampling method
+
 accuracy_heatmap.png	Heatmap of accuracies
+
 best_accuracy_per_model.png	Best accuracy per model
+
 avg_accuracy_per_sampling.png	Sampling comparison
+
 accuracy_lineplot_all_combinations.png	Accuracy trend plot
+
+
 🧾 Conclusion
 
 Sampling techniques significantly influence model performance
