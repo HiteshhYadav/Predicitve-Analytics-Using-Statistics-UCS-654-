@@ -1,0 +1,6 @@
+Model,Sampling,Accuracy
+DecisionTree,SMOTE,0.9833014175414349
+LogisticRegression,SMOTE,0.9244800372689476
+NaiveBayes,NoSampling,0.7869565217391304
+RandomForest,NoSampling,1.0
+SVM,NoSampling,0.6804347826086957
