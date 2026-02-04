@@ -25,7 +25,7 @@ Result Graph Explanation
 
 The graph shows a Kernel Density Estimate (KDE) of the transformed variable z.
 <p align="center">
-  <img src="https://github.com/HiteshhYadav/Predicitve-Analytics-Using-Statistics-UCS-654-/blob/main/advance_maths_assign3/download.png" width="684" height="384">
+  <img src="https://github.com/HiteshhYadav/Predicitve-Analytics-Using-Statistics-UCS-654-/blob/main/advance_maths_assign3/image_pdf.png" width="684" height="384">
 </p>
 
 Observations
