@@ -53,7 +53,7 @@ Distribution quality	Generated PDF aligns well with real data in high-density re
 
 The KDE plots show that the generator is able to approximate the overall shape of the real data distribution, with minor deviations in the tails.
 <p align="centre">
-<img width="545" height="413" alt="Screenshot 2026-02-10 at 16 53 27" src="./pdf.png" />
+<img width="545" height="413" alt="Screenshot 2026-02-10 at 16 53 27" src="./kde.png" />
 </p>
 Conclusion
 
