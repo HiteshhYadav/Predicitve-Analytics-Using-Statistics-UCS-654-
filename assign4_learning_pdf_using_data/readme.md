@@ -42,7 +42,7 @@ After training:
 	•	The probability density function is estimated using Kernel Density Estimation (KDE).
 	•	KDE plots of real and generated samples are compared.
 <p align="centre">
-<img width="790" height="461" alt="Screenshot 2026-02-10 at 16 53 56" src="https://github.com/user-attachments/assets/c5be0717-37e7-417a-ac05-1479e3a64d42" />
+<img width="790" height="461" alt="Screenshot 2026-02-10 at 16 53 56" src="[https://github.com/user-attachments/assets/c5be0717-37e7-417a-ac05-1479e3a64d42](https://github.com/HiteshhYadav/Predicitve-Analytics-Using-Statistics-UCS-654-/blob/main/assign4_learning_pdf_using_data/loss.png)" />
 </p>
 Results
 
@@ -53,7 +53,7 @@ Distribution quality	Generated PDF aligns well with real data in high-density re
 
 The KDE plots show that the generator is able to approximate the overall shape of the real data distribution, with minor deviations in the tails.
 <p align="centre">
-<img width="545" height="413" alt="Screenshot 2026-02-10 at 16 53 27" src="https://github.com/user-attachments/assets/365974e0-8663-442b-a82a-07524ee7d1ba" />
+<img width="545" height="413" alt="Screenshot 2026-02-10 at 16 53 27" src="[https://github.com/user-attachments/assets/365974e0-8663-442b-a82a-07524ee7d1ba](https://github.com/HiteshhYadav/Predicitve-Analytics-Using-Statistics-UCS-654-/blob/main/assign4_learning_pdf_using_data/pdf.png)" />
 </p>
 Conclusion
 
