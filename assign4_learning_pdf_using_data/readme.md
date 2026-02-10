@@ -48,7 +48,7 @@ In the code, these are represented as:
 
 The transformation applies a frequency-modulated sinusoidal modification to the original NO₂ data.
 <p align="center">
-<img width="579" height="449" href="./hist.png" />
+<img width="579" height="449" alt="./hist.png" />
 </p>
 ### GAN-Based Density Learning
 
