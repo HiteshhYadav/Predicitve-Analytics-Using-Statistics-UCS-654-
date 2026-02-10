@@ -38,17 +38,17 @@ where:
 
 For the given university roll number:
 
-- **r = 102317240**
-- **aᵣ = 0.5 × (r mod 7) = 0.5 × (102317240 mod 7) = 0.5 × 0 = 0.3**
-- **bᵣ = 0.3 × ((r mod 5) + 1) = 0.3 × ((102317240 mod 5) + 1) = 0.3 × (1 + 1) = 0.6**
+- **r = 102317248**
+- **aᵣ = 0.5 × (r mod 7) = 0.5 × (102317248 mod 7) = 0.5 × 0 = 2.5**
+- **bᵣ = 0.3 × ((r mod 5) + 1) = 0.3 × ((102317248 mod 5) + 1) = 0.3 × (1 + 1) = 1.2**
 
 In the code, these are represented as:
-- **ar = 0.3**
-- **br = 0.6**
+- **ar = 2.5**
+- **br = 1.2**
 
 The transformation applies a frequency-modulated sinusoidal modification to the original NO₂ data.
 <p align="center">
-<img width="579" height="449" alt="Screenshot 2026-02-10 at 21 17 27" src="https://github.com/user-attachments/assets/64bbe584-4f63-4e36-b0bd-73498b518cf2" />
+<img width="579" height="449" alt="./hist.png" />
 </p>
 ### GAN-Based Density Learning
 
@@ -125,7 +125,7 @@ The visualization demonstrates how well the GAN has learned to approximate the t
 
 ### PDF Estimation Plot
 
-![PDF Estimation of Transformed NO₂ Data using GAN](A2.jpeg)
+![PDF Estimation of Transformed NO₂ Data using GAN](pdf.png)
 
 **Figure:** Comparison of real NO₂ transformed data histogram with GAN-estimated probability density function. The red curve represents the learned distribution obtained through kernel density estimation on 50,000 generated samples. The close alignment between the histogram and the estimated PDF indicates successful distribution learning by the adversarial network.
 
