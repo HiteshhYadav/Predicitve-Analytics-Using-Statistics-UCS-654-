@@ -46,10 +46,8 @@ In the code, these are represented as:
 - **ar = 2.5**
 - **br = 1.2**
 
-The transformation applies a frequency-modulated sinusoidal modification to the original NO₂ data.
-<p align="center">
-<img width="579" height="449" alt="./hist.png" />
-</p>
+
+![The transformation applies a frequency-modulated sinusoidal modification to the original NO₂ data.](hist.png)
 ### GAN-Based Density Learning
 
 - **Real samples:** transformed_no2 values from data
